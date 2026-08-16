@@ -1,8 +1,8 @@
 cask "whelk" do
-  version "train-2026.8.0-beta"
-  sha256 "d308bedb5512c06a6e778b2bd1e3c8cc81ca8b0d75dcb88f07b4c5df2fb12bdd"
+  version "nightly-20260816"
+  sha256 "16000d348f3cb3fbf736e8d60d8642b7684f6c3a8a196260408ed4c963d46758"
 
-  url "https://downloads.getwhelk.com/apple/train-2026.8.0-beta/Whelk-train-2026.8.0-beta.dmg"
+  url "https://downloads.getwhelk.com/apple/nightly-20260816/Whelk-nightly-20260816.dmg"
   name "Whelk"
   desc "Native client for models running on your own hardware"
   homepage "https://getwhelk.com"
