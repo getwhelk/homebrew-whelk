@@ -1,8 +1,8 @@
 cask "whelk" do
-  version "nightly-20260831"
-  sha256 "e6f30efbdd12d4c7ed9cef7409bba4c6c164ced377bf1a56c0069ad06714002f"
+  version "2026.8.0-stable.20260831"
+  sha256 "13fa6c7f971fe6f98e966b20922983038ce326a82af5bf0c5939257ae95e4610"
 
-  url "https://downloads.getwhelk.com/apple/nightly-20260831/Whelk-nightly-20260831.dmg"
+  url "https://downloads.getwhelk.com/apple/2026.8.0-stable.20260831/Whelk-2026.8.0-stable.20260831.dmg"
   name "Whelk"
   desc "Native client for models running on your own hardware"
   homepage "https://getwhelk.com"
